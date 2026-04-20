@@ -1,0 +1,136 @@
+WEBSITE GOAL:
+High-conversion website focused on Call, WhatsApp, and Store Visits. Keep it short, clean, and mobile-first.
+
+--------------------------------------------------
+
+SECTION 1: HERO
+
+Heading:
+Make Every Celebration Extra Special
+
+Sub Text:
+Cakes • Desserts • Ice Cream • Party Orders  
+Trusted by 25,000+ Customers Since 2020
+
+Highlight Line:
+Bulk Orders Welcome
+
+Buttons:
+Call Now → 7708001144  
+WhatsApp → https://wa.me/917708001144  
+Get Directions → Use both branch map links
+
+Design:
+Full-screen banner (celebration + premium cake visuals), dark overlay, center aligned, bright CTA buttons.
+
+--------------------------------------------------
+
+SECTION 2: BEST SELLERS
+
+Title:
+Our Best Sellers
+
+Items:
+
+Birthday Cakes – Perfect for Every Celebration  
+Custom Cakes – Designed Just for Your Special Moments  
+Mini Desserts – Sweet Treats for Every Occasion  
+Ice Cream – Fresh, Creamy & Delicious  
+Mini Burgers – Perfect Bites for Parties & Events  
+Juices – Fresh & Refreshing Drinks  
+
+Design:
+Grid layout, clean, image + name + tagline, no buttons inside items.
+
+--------------------------------------------------
+
+SECTION 3: PARTY ORDERS
+
+Title:
+Planning a Celebration?
+
+Content:
+Make your special moments truly unforgettable with Heavenss Pastries.
+
+We provide complete party order solutions for:
+- Birthday Parties  
+- Family Functions  
+- Corporate Events  
+- College Events  
+- Engagements & Weddings  
+
+From cakes to desserts, mini burgers, ice creams and juices — everything you need for your celebration, all in one place.
+
+CTA:
+Plan Your Celebration with Us  
+WhatsApp Button → https://wa.me/917708001144
+
+--------------------------------------------------
+
+SECTION 4: GALLERY + TESTIMONIALS
+
+Title:
+Real Celebrations & Happy Customers
+
+Content:
+Every celebration tells a story. Here are some beautiful moments shared by our happy customers.
+
+Gallery:
+5 videos + 10 images (real customer moments)
+
+Testimonials:
+- Best cake shop in Dindigul! The taste, design and quality are truly amazing.  
+- Very good service and on-time delivery. Perfect place for all celebrations.  
+- Ordered for a family function and everything was perfect. Highly recommended!  
+- Loved the cakes and mini desserts. Great experience overall.  
+- One of the best places for party orders. Quality and taste are excellent.  
+
+--------------------------------------------------
+
+SECTION 5: CONTACT & LOCATION
+
+Title:
+Visit Us or Order Now
+
+Main Branch:
+Heavenss Pastries  
+No.27A, Spencer Compound, Near Dindigul Bus Stand  
+Dindigul – 624001  
+Phone: 7708001144  
+Timing: 10 AM – 10 PM  
+Map: https://maps.app.goo.gl/bsThpWSDmTZs9MnL9  
+
+Branch 2:
+Heavenss Pastries  
+108A, Palani Road, Opposite Reliance Department Store  
+Dindigul – 624001  
+Phone: 7418568080  
+Timing: 11 AM – 10 PM  
+Map: https://maps.app.goo.gl/LCH2dcM1e6x2KjHE6  
+
+Buttons:
+Call Now / WhatsApp / Directions
+
+Social Links:
+Instagram – To be added  
+Facebook – To be added  
+
+--------------------------------------------------
+
+GLOBAL REQUIREMENTS:
+
+- Sticky WhatsApp + Call buttons (floating)
+- Mobile-first responsive design
+- Fast loading
+- Clean premium UI
+
+TRACKING:
+- Install Google Tag Manager (head + body)
+- Track: Call clicks, WhatsApp clicks, page visits
+
+SEO KEYWORDS:
+Cake shop in Dindigul  
+Best bakery in Dindigul  
+Birthday cakes near me  
+Custom cakes Dindigul  
+Party orders Dindigul
