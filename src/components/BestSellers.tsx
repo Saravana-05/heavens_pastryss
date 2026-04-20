@@ -4,6 +4,9 @@ import miniDesserts from "@/assets/mini-desserts.jpg";
 import iceCream from "@/assets/ice-cream.jpg";
 import miniBurgers from "@/assets/mini-burgers.jpg";
 import juices from "@/assets/juices.jpg";
+import premiumIceStick from "@/assets/IMG_1456.JPG.jpeg";
+import iceCandySipup from "@/assets/IMG_1457.JPG.jpeg";
+import premiumMiniIceStick from "@/assets/IMG_1458.JPG.jpeg";
 
 const items = [
   { img: birthdayCake, name: "Birthday Cakes", tagline: "Perfect for Every Celebration" },
@@ -12,6 +15,10 @@ const items = [
   { img: iceCream, name: "Ice Cream", tagline: "Fresh, Creamy & Delicious" },
   { img: miniBurgers, name: "Mini Burgers", tagline: "Perfect Bites for Parties & Events" },
   { img: juices, name: "Juices", tagline: "Fresh & Refreshing Drinks" },
+  
+  { img: premiumIceStick, name: "Premium Ice Stick", tagline: "Rich & Indulgent Frozen Delight" },
+  { img: iceCandySipup, name: "Ice Candy Sipup", tagline: "Cool, Sweet & Refreshing Sips" },
+  { img: premiumMiniIceStick, name: "Premium Mini Ice Stick", tagline: "Tiny Treats, Big Flavours" },
 ];
 
 const BestSellers = () => (
