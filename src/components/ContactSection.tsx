@@ -89,10 +89,7 @@ const ContactSection = () => (
         ))}
       </div>
 
-      <div className="flex justify-center gap-4 mt-10">
-        <a href="#" className="text-muted-foreground hover:text-primary transition text-sm">Instagram (Coming Soon)</a>
-        <a href="#" className="text-muted-foreground hover:text-primary transition text-sm">Facebook (Coming Soon)</a>
-      </div>
+      
     </div>
   </section>
 );

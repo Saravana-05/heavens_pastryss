@@ -5,8 +5,8 @@ import logo from "@/assets/logo.png";
 
 const links = [
   { label: "Home", href: "#hero" },
-  { label: "Menu", href: "#menu" },
-  { label: "Party Orders", href: "#party" },
+  { label: "Our Creations", href: "#menu" },
+  { label: "Celebrations", href: "#party" },
   { label: "Reviews", href: "#reviews" },
   { label: "Contact", href: "#contact" },
 ];

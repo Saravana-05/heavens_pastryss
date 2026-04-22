@@ -9,16 +9,16 @@ import iceCandySipup from "@/assets/IMG_1457.JPG.jpeg";
 import premiumMiniIceStick from "@/assets/IMG_1458.JPG.jpeg";
 
 const items = [
-  { img: birthdayCake, name: "Birthday Cakes", tagline: "Perfect for Every Celebration" },
-  { img: customCake, name: "Custom Cakes", tagline: "Designed Just for Your Special Moments" },
-  { img: miniDesserts, name: "Mini Desserts", tagline: "Sweet Treats for Every Occasion" },
-  { img: iceCream, name: "Ice Cream", tagline: "Fresh, Creamy & Delicious" },
-  { img: miniBurgers, name: "Mini Burgers", tagline: "Perfect Bites for Parties & Events" },
-  { img: juices, name: "Juices", tagline: "Fresh & Refreshing Drinks" },
+  { img: birthdayCake, name: "Birthday Cakes", tagline: "Made for Every Birthday" },
+  { img: customCake, name: "Wedding Cakes", tagline: "Elegance in Every Slice" },
+  { img: miniDesserts, name: "Party Orders", tagline: "For Every Celebration" },
+  { img: iceCream, name: "Signature Treats", tagline: "Bites You’ll Love" },
+  // { img: miniBurgers, name: "Mini Burgers", tagline: "Perfect Bites for Parties & Events" },
+  // { img: juices, name: "Juices", tagline: "Fresh & Refreshing Drinks" },
   
-  { img: premiumIceStick, name: "Premium Ice Stick", tagline: "Rich & Indulgent Frozen Delight" },
-  { img: iceCandySipup, name: "Ice Candy Sipup", tagline: "Cool, Sweet & Refreshing Sips" },
-  { img: premiumMiniIceStick, name: "Premium Mini Ice Stick", tagline: "Tiny Treats, Big Flavours" },
+  // { img: premiumIceStick, name: "Premium Ice Stick", tagline: "Rich & Indulgent Frozen Delight" },
+  // { img: iceCandySipup, name: "Ice Candy Sipup", tagline: "Cool, Sweet & Refreshing Sips" },
+  // { img: premiumMiniIceStick, name: "Premium Mini Ice Stick", tagline: "Tiny Treats, Big Flavours" },
 ];
 
 const BestSellers = () => (
@@ -28,7 +28,7 @@ const BestSellers = () => (
         Our <span className="text-gradient">Best Sellers</span>
       </h2>
 
-      <div className="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
         {items.map((item) => (
           <div
             key={item.name}

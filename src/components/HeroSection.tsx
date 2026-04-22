@@ -23,15 +23,15 @@ const HeroSection = () => {
           className="h-16 md:h-24 mx-auto mb-6"
         />
 
-        <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold text-primary-foreground mb-4 leading-tight">
+        <h1 className="text-4xl md:text-5xl lg:text-8xl font-bold text-primary-foreground mb-4 leading-tight">
           Make Every Celebration Extra Special
         </h1>
 
-        <p className="text-primary-foreground/80 text-base md:text-lg mb-2">
-          Cakes • Desserts • Ice Cream • Party Orders
+        <p className="text-primary-foreground/80 text-base md:text-2xl mb-2 font-bold">
+          Premium Cakes • Desserts • Party Experiences
         </p>
-        <p className="text-primary-foreground/70 text-sm md:text-base mb-3">
-          Trusted by 25,000+ Customers Since 2020
+        <p className="text-primary-foreground/70 text-sm md:text-xl mb-3">
+          Trusted by 1 Lakh + Happy Customers Since 2020
         </p>
 
         <span className="inline-block bg-primary text-primary-foreground text-sm font-semibold px-4 py-1.5 rounded-full mb-8">
