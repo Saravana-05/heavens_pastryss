@@ -10,16 +10,18 @@ const branches = [
     address: "No.27A, Spencer Compound, Near Dindigul Bus Stand, Dindigul – 624001",
     phone: "7708001144",
     timing: "10 AM – 10 PM",
-    map: "https://maps.app.goo.gl/bsThpWSDmTZs9MnL9",
-    embedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.0!2d77.97!3d10.37!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTDCsDIyJzEyLjAiTiA3N8KwNTgnMTIuMCJF!5e0!3m2!1sen!2sin!4v1",
+    map: "https://maps.app.goo.gl/LCH2dcM1e6x2KjHE6",
+    embedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.0!2d77.98!3d10.36!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTDCsDIxJzM2LjAiTiA3N8KwNTgnNDguMCJF!5e0!3m2!1sen!2sin!4v1",
+    
   },
   {
     name: "Branch 2",
     address: "108A, Palani Road, Opposite Reliance Department Store, Dindigul – 624001",
     phone: "7418568080",
     timing: "11 AM – 10 PM",
-    map: "https://maps.app.goo.gl/LCH2dcM1e6x2KjHE6",
-    embedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.0!2d77.98!3d10.36!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTDCsDIxJzM2LjAiTiA3N8KwNTgnNDguMCJF!5e0!3m2!1sen!2sin!4v1",
+    map: "https://maps.app.goo.gl/bsThpWSDmTZs9MnL9",
+    embedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.0!2d77.97!3d10.37!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTDCsDIyJzEyLjAiTiA3N8KwNTgnMTIuMCJF!5e0!3m2!1sen!2sin!4v1",
+    
   },
 ];
 
