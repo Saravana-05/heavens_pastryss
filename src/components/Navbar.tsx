@@ -66,7 +66,7 @@ const Navbar = () => {
               className="flex items-center gap-1.5 bg-primary text-primary-foreground text-sm font-bold px-4 py-2 rounded-full shadow-md hover:scale-105 hover:bg-primary/90 transition-all duration-200 animate-pulse-slow"
             >
               <CakeIcon sx={{ fontSize: 17 }} />
-              Choose Your Cake
+              Choose Your Cakes
             </button>
           </div>
 
@@ -100,7 +100,7 @@ const Navbar = () => {
               className="w-full flex items-center gap-2 px-6 py-3 text-primary font-bold text-sm hover:bg-accent transition border-t border-border"
             >
               <CakeIcon sx={{ fontSize: 18 }} />
-              Choose Your Cake 🎂
+              Choose Your Cakes 🎂
             </button>
           </div>
         )}
